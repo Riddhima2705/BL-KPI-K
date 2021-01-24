@@ -1,0 +1,30 @@
+img{
+    height: 400px;
+    width: 600;
+}
+body{
+    text-align: center;
+    background-color: black;
+}
+    h4{
+    color: white;
+    font-family: sans-serif;
+}
+.menu{
+    list-style: none;
+    font-family: fantasy;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+    cursor: pointer;
+    z-index: 10;
+}
+#welcome{
+    z-index: 9;
+}
+.links{
+    float: left;
+    font-family: fantasy;
+    padding: 5px;
+    color: white;
+}
